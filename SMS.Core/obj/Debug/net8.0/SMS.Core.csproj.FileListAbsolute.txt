@@ -1,0 +1,11 @@
+E:\BackEnd\C#.NET\StudentManageSystem\SMS.Core\bin\Debug\net8.0\SMS.Core.deps.json
+E:\BackEnd\C#.NET\StudentManageSystem\SMS.Core\bin\Debug\net8.0\SMS.Core.dll
+E:\BackEnd\C#.NET\StudentManageSystem\SMS.Core\bin\Debug\net8.0\SMS.Core.pdb
+E:\BackEnd\C#.NET\StudentManageSystem\SMS.Core\obj\Debug\net8.0\SMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\BackEnd\C#.NET\StudentManageSystem\SMS.Core\obj\Debug\net8.0\SMS.Core.AssemblyInfoInputs.cache
+E:\BackEnd\C#.NET\StudentManageSystem\SMS.Core\obj\Debug\net8.0\SMS.Core.AssemblyInfo.cs
+E:\BackEnd\C#.NET\StudentManageSystem\SMS.Core\obj\Debug\net8.0\SMS.Core.csproj.CoreCompileInputs.cache
+E:\BackEnd\C#.NET\StudentManageSystem\SMS.Core\obj\Debug\net8.0\SMS.Core.dll
+E:\BackEnd\C#.NET\StudentManageSystem\SMS.Core\obj\Debug\net8.0\refint\SMS.Core.dll
+E:\BackEnd\C#.NET\StudentManageSystem\SMS.Core\obj\Debug\net8.0\SMS.Core.pdb
+E:\BackEnd\C#.NET\StudentManageSystem\SMS.Core\obj\Debug\net8.0\ref\SMS.Core.dll
